@@ -1,0 +1,30 @@
+[33mcommit ecba5a4d67e29f45191501a6b3de5d5eee7222ae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JEKKY <wpdnjs20@gmail.com>
+Date:   Wed Mar 27 14:19:06 2024 +0900
+
+    XOR neurone
+
+[33mcommit 4ff2b162212c40ee741567d89cc21f9d965f61d6[m
+Merge: 00e5895 9ff005b
+Author: JEKKY <wpdnjs20@gmail.com>
+Date:   Wed Mar 27 14:17:45 2024 +0900
+
+    Merge branch 'main' of https://github.com/vJEKKYv/AIClass
+
+[33mcommit 00e5895a26bc6cb95fcc85afd2665ac1db0bb4be[m
+Author: JEKKY <wpdnjs20@gmail.com>
+Date:   Wed Mar 27 14:17:42 2024 +0900
+
+    code upload 3/27 (4th week)
+
+[33mcommit 9ff005b6c9c6305816033604424b51633d8f9d56[m
+Author: JEKKY <137982621+vJEKKYv@users.noreply.github.com>
+Date:   Wed Mar 27 14:16:26 2024 +0900
+
+    Update README.md
+
+[33mcommit 4c854cec3172a5a416629874eb608102d56fd4a0[m
+Author: JEKKY <wpdnjs20@gmail.com>
+Date:   Wed Mar 27 14:14:53 2024 +0900
+
+    first commit
